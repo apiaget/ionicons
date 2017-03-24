@@ -1,8 +1,20 @@
 {
-  "build_hash": "259c592d7dc03e4169a4ca133ea2a34d",
+  "build_hash": "64903ad20bbbe3a2a3e5727eb571b46a",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
+    {
+      "code": "0xf3b1",
+      "name": "dot-big"
+    },
+    {
+      "code": "0xf3b0",
+      "name": "dot-mid"
+    },
+    {
+      "code": "0xf3af",
+      "name": "dot-sma"
+    },
     {
       "code": "0xf102",
       "name": "ios-add"
@@ -678,6 +690,14 @@
     {
       "code": "0xf16a",
       "name": "ios-cut"
+    },
+    {
+      "code": "0xf3ad",
+      "name": "ios-cut-add"
+    },
+    {
+      "code": "0xf3ae",
+      "name": "ios-cut-neg"
     },
     {
       "code": "0xf169",
@@ -2650,6 +2670,14 @@
     {
       "code": "0xf2de",
       "name": "md-cut"
+    },
+    {
+      "code": "0xf3ab",
+      "name": "md-cut-add"
+    },
+    {
+      "code": "0xf3ac",
+      "name": "md-cut-neg"
     },
     {
       "code": "0xf2df",

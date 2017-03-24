@@ -2232,6 +2232,46 @@
       }
     ]
   },
+  "cut-add": {
+    "tags": [
+      "cut",
+      "add"
+    ],
+    "icons": [
+      {
+        "code": "0xf3ad",
+        "name": "ios-cut-add"
+      },
+      {
+        "code": "0xf3ad",
+        "name": "ios-cut-add-outline"
+      },
+      {
+        "code": "0xf3ab",
+        "name": "md-cut-add"
+      }
+    ]
+  },
+  "cut-neg": {
+    "tags": [
+      "cut",
+      "neg"
+    ],
+    "icons": [
+      {
+        "code": "0xf3ae",
+        "name": "ios-cut-neg"
+      },
+      {
+        "code": "0xf3ae",
+        "name": "ios-cut-neg-outline"
+      },
+      {
+        "code": "0xf3ac",
+        "name": "md-cut-neg"
+      }
+    ]
+  },
   "designernews": {
     "tags": [
       "design",

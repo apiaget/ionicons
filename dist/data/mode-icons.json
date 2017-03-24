@@ -102,6 +102,8 @@
 "crop":1,
 "cube":1,
 "cut":1,
+"cut-add":1,
+"cut-neg":1,
 "desktop":1,
 "disc":1,
 "document":1,

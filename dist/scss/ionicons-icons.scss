@@ -2,6 +2,9 @@
 // Ionicons Icon Font CSS
 // --------------------------
 
+.ion-dot-big:before { content: "\f3b1"; }
+.ion-dot-mid:before { content: "\f3b0"; }
+.ion-dot-sma:before { content: "\f3af"; }
 .ion-ios-add:before { content: "\f102"; }
 .ion-ios-add-circle:before { content: "\f101"; }
 .ion-ios-add-circle-outline:before { content: "\f100"; }
@@ -201,6 +204,10 @@
 .ion-ios-cube:before { content: "\f168"; }
 .ion-ios-cube-outline:before { content: "\f167"; }
 .ion-ios-cut:before { content: "\f16a"; }
+.ion-ios-cut-add:before { content: "\f3ad"; }
+.ion-ios-cut-add-outline:before { content: "\f3ad"; }
+.ion-ios-cut-neg:before { content: "\f3ae"; }
+.ion-ios-cut-neg-outline:before { content: "\f3ae"; }
 .ion-ios-cut-outline:before { content: "\f169"; }
 .ion-ios-desktop:before { content: "\f16c"; }
 .ion-ios-desktop-outline:before { content: "\f16b"; }
@@ -739,6 +746,8 @@
 .ion-md-crop:before { content: "\f2dc"; }
 .ion-md-cube:before { content: "\f2dd"; }
 .ion-md-cut:before { content: "\f2de"; }
+.ion-md-cut-add:before { content: "\f3ab"; }
+.ion-md-cut-neg:before { content: "\f3ac"; }
 .ion-md-desktop:before { content: "\f2df"; }
 .ion-md-disc:before { content: "\f2e0"; }
 .ion-md-document:before { content: "\f2e1"; }

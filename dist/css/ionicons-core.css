@@ -10,6 +10,12 @@
   used under CC BY http://creativecommons.org/licenses/by/4.0/
   Modified icons to fit ionicon’s grid from original.
 */
+.ion-dot-big:before { content: "\f3b1"; }
+
+.ion-dot-mid:before { content: "\f3b0"; }
+
+.ion-dot-sma:before { content: "\f3af"; }
+
 .ion-ios-add:before { content: "\f102"; }
 
 .ion-ios-add-circle:before { content: "\f101"; }
@@ -407,6 +413,14 @@
 .ion-ios-cube-outline:before { content: "\f167"; }
 
 .ion-ios-cut:before { content: "\f16a"; }
+
+.ion-ios-cut-add:before { content: "\f3ad"; }
+
+.ion-ios-cut-add-outline:before { content: "\f3ad"; }
+
+.ion-ios-cut-neg:before { content: "\f3ae"; }
+
+.ion-ios-cut-neg-outline:before { content: "\f3ae"; }
 
 .ion-ios-cut-outline:before { content: "\f169"; }
 
@@ -1483,6 +1497,10 @@
 .ion-md-cube:before { content: "\f2dd"; }
 
 .ion-md-cut:before { content: "\f2de"; }
+
+.ion-md-cut-add:before { content: "\f3ab"; }
+
+.ion-md-cut-neg:before { content: "\f3ac"; }
 
 .ion-md-desktop:before { content: "\f2df"; }
 
