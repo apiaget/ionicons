@@ -1,5 +1,5 @@
 {
-  "build_hash": "fefe9ded8d1f208a7244498d3b5a0855",
+  "build_hash": "64903ad20bbbe3a2a3e5727eb571b46a",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -1638,6 +1638,14 @@
     {
       "code": "0xf47d",
       "name": "ios-person-outline"
+    },
+    {
+      "code": "0xf3b2",
+      "name": "ios-person-remove"
+    },
+    {
+      "code": "0xf3b2",
+      "name": "ios-person-remove-outline"
     },
     {
       "code": "0xf1e2",
@@ -3398,6 +3406,10 @@
     {
       "code": "0xf344",
       "name": "md-person-add"
+    },
+    {
+      "code": "0xf3b3",
+      "name": "md-person-remove"
     },
     {
       "code": "0xf346",

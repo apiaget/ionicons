@@ -4666,6 +4666,26 @@
       }
     ]
   },
+  "person-remove": {
+    "tags": [
+      "person",
+      "remove"
+    ],
+    "icons": [
+      {
+        "code": "0xf3b2",
+        "name": "ios-person-remove"
+      },
+      {
+        "code": "0xf3b2",
+        "name": "ios-person-remove-outline"
+      },
+      {
+        "code": "0xf3b3",
+        "name": "md-person-remove"
+      }
+    ]
+  },
   "phone-landscape": {
     "tags": [
       "landscape",
